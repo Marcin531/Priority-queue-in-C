@@ -1,0 +1,5 @@
+﻿  Function.cpp
+  PQueue.cpp
+c:\users\admin\desktop\projekty\pqueue\pqueue\pqueue.cpp(26): warning C4129: 'Z': unrecognized character escape sequence
+  Generating Code...
+  PQueue.vcxproj -> C:\Users\Admin\Desktop\Projekty\PQueue\Debug\PQueue.exe
